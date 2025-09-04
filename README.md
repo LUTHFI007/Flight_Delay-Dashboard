@@ -42,4 +42,4 @@ The application is built using Python and the Dash framework. Below is a summary
 4. Open a web browser and navigate to the local server address (typically `http://127.0.0.1:8050`) to interact with the dashboard.
 
 
-###Author - Luthfi Shaj
+**Author - Luthfi Shaj**
